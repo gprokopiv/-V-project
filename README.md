@@ -1,2 +1,2 @@
-# -V-project
+# CV-project
 About me
